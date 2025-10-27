@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Launch TapNpay",
+      "mainClass": "tapNpay.TapNpay"
+    }
+  ]
+}
